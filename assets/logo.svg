@@ -1,0 +1,9 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { fill: #ffffff; font-family: Arial, sans-serif; font-size: 48px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; }
+    .underline { stroke: #ffffff; stroke-width: 3; }
+  </style>
+  <text x="50%" y="45%" text-anchor="middle" class="text">The Time</text>
+  <text x="50%" y="85%" text-anchor="middle" class="text">Show</text>
+  <line x1="25%" y1="60%" x2="75%" y2="60%" class="underline" />
+</svg>
